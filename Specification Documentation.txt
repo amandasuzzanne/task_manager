@@ -1,0 +1,37 @@
+SOFTWARE DEVELOPMENT LABORATORY
+SCCI/01140/2018
+TASK MANAGER
+
+OVERVIEW
+1.	Project Background and Description
+One of the elements that affects the success of a task is its ability to be completed and maintained on schedule. Therefore, it is crucial to make sure that there are appropriate deadlines to be observed in order to:
+•	Ensure the task is done on time;
+•	Aid in quick reporting;
+•	Track the tasks.
+
+2.	Project Scope
+A responsive web-based application system will be used in the project, and it will be accessible online via laptops and desktop computers.
+
+3.	High-Level Requirements
+Since the system is a web-based program, it may be accessed from any device having an up-to-date browser and internet access.
+
+The following elements must be present in the system:
+•	Creation of user accounts;
+•	Authentication and authorization of users during login;
+•	Addition of tasks details;
+•	Availability of both the new and the old task data; 
+•	Event calendar for the tasks;
+•	Summary report of tasks.
+
+4.	Deliverables
+•	Front-end and back-end application.
+•	User interface prototypes.
+•	Accessible responsive online application for members.
+
+5.	Affected Parties
+•	Application Users
+
+6.	Specific Exclusion from Scope
+The following will not be included in this initial phase but rather will be included in later phases: -
+•	A direct email connection that enables automatic real-time email reminders to users of approaching deadlines.
+•	Integration with any existing systems.
