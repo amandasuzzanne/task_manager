@@ -1,5 +1,7 @@
 # task_manager
-Host at port 9000. The sql database file used in in the sql database folder.
+Host at port 9000. 
+The sql database file used is in the sql database folder.
+
 ## Tools
 - PHP
 - Laravel
