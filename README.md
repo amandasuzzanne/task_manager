@@ -12,7 +12,7 @@ The sql database file (projectmgmt .sql) used is in the sql database folder.
 - Run "php artisan serve" command to start the web application.
 
 # Application login 
-- Either create an account or use one of the following usernames: **amanda@gmail.com** or **brian** with the password:*1234* for each username, to gain access to the system.
+- Either create an account or use one of the following usernames: **amanda @gmail.com** *(ignore the space before the @ sign)* or **brian** with the password:**1234** for both usernames, to gain access to the system.
 
 ## Tools
 - PHP
