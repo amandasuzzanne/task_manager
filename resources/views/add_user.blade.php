@@ -9,13 +9,16 @@
    .container{
       margin-top:3%;
    }
+   button:hover {
+            opacity: 0.8;
+         }
 </style>
 </head>
-<body style="margin-left: 450px;">
+<body style="margin-left: 500px;">
 
 <div>
-<div >
-  <h1 style="margin-bottom: 50px;">Create Account</h1>
+<div class="container">
+   <h3 style="margin-bottom: 50px; margin-left: 35px;">Create Account</h3>
 </div>
 <div>
 </div>
@@ -32,6 +35,7 @@
    <input type="password" id="inputPassword" name="password" style="margin-bottom: 50px;" class="form-control" placeholder="Password" >
    </div>
 </div>
+   <a href="/login" class="btn btn-secondary col-sm-1">Back</a>
 	<button type="submit" class="btn btn-primary col-sm-1.4" style="margin-left: 100px;" name="submit">REGISTER</button>
 </form>
 </div>
