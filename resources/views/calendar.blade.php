@@ -76,7 +76,7 @@
         <a href="/manage_tasks" style="margin-top: 35px;">MANAGE TASKS</a>
         <a href="/calendar" style="color: white; margin-top: 35px;">EVENT CALENDAR</a>
         <a href="/visualization" style="margin-top: 35px;">TASK SUMMARY</a>
-        <a href="/logout" style="margin-top: 35px;">LOGOUT</a>
+        <a href="/logout" style="margin-top: 270px;">LOGOUT</a>
     </div>
     
 </body>
