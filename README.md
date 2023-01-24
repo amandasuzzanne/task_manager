@@ -1,7 +1,7 @@
 # task_manager
 The sql database file (projectmgmt .sql) used is in the sql database folder. 
 
-#Requirements
+# Requirements
 - PHP version: 8.0^
 - Composer version: 2.0^
 
