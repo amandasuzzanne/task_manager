@@ -28,11 +28,11 @@ a{
 
 <body>
     <div class="sidenav">
-        <a href="/" style="color: white;">HOME</a>
-        <a href="/manage_tasks" style="margin-top: 15px;">MANAGE TASKS</a>
-        <a href="/calendar" style="margin-top: 15px;">EVENT CALENDAR</a>
-        <a href="/visualization" style="margin-top: 15px;">TASKS SUMMARY</a>
-        <a href="/logout" style="margin-top: 150px;">LOGOUT</a>
+        <a href="/" style="margin-top: 35px;">HOME</a>
+        <a href="/manage_tasks" style="color: white; margin-top: 35px;">MANAGE TASKS</a>
+        <a href="/calendar" style="margin-top: 35px;">EVENT CALENDAR</a>
+        <a href="/visualization" style="margin-top: 35px;">TASK SUMMARY</a>
+        <a href="/logout" style="margin-top: 270px;">LOGOUT</a>
     </div>
 <div class="container">
 <h3>Add Task</h3>
@@ -57,7 +57,7 @@ a{
     <input type="date" id="inputEndDate" placeholder="Date" name="end_date" class="form-control" >
     </div>
 </div>
-    <a href="/" class="btn btn-secondary col-sm-1">Back</a>
+    <a href="/manage_tasks" class="btn btn-secondary col-sm-1">Back</a>
     <button id="save_btn" type="save" class="btn btn-primary col-sm-1" style="margin-left: 260px;" name="save">Save</button>
 </form>
 </div>
