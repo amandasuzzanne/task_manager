@@ -14,7 +14,7 @@
 <h1>MANAGE TASKS</h1>
 
 <div class="sidenav">
-    <a href="/home" style="margin-top: 35px;">HOME</a>
+    <a href="/" style="margin-top: 35px;">HOME</a>
     <a href="/manage_tasks" style="color: white; margin-top: 35px;">MANAGE TASKS</a>
     <a href="/calendar" style="margin-top: 35px;">EVENT CALENDAR</a>
     <a href="/visualization" style="margin-top: 35px;">TASK SUMMARY</a>
