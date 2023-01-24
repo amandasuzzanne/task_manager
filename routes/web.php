@@ -20,6 +20,8 @@ use Illuminate\Support\Facades\Route;
  * Index or Home page
  */
 Route::get('/', function () {
+    if (!session('user_id')) return redirect('/login');
+    
     $project_tasks = ProjectTask::where('user_id', session('user_id'))->orderBy('end_date', 'desc')->get();
 
     return view('index', compact('project_tasks'));
